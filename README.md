@@ -1,0 +1,1 @@
+- replace `wasm_template` with your `project-name`
